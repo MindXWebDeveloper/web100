@@ -1,0 +1,4 @@
+username: thanhlv10041999_db_user
+password: zW6goEC8ZSAa1i9M
+
+mongodb+srv://thanhlv10041999_db_user:zW6goEC8ZSAa1i9M@mindx-web100.7btepyx.mongodb.net/
